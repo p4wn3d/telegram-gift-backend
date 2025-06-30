@@ -1,7 +1,6 @@
 {
   "name": "telegram-gift-backend",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "start": "node index.js"
   },
